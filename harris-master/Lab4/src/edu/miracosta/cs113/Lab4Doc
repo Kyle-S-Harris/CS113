@@ -1,0 +1,20 @@
+/**
+
+Kyle Harris 
+Professor Nery Chapeton-Lamas 
+CS 113 
+11 September 2017 
+ 
+Self-check  
+ 
+1a. The output statement is displayed n times. Algorithm is O(n^2).  
+ 
+1b. The output statement is displayed 2 times. Algorithm is O(n^2). 
+ 
+1c. The output is displayed n-1 times. Algorithm is O(n^2).  
+ 
+1d. The output is displayed 1 time. Algorithm is O(n^2). 
+ 
+Programming 1: See java file in project folder 
+
+*/

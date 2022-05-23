@@ -1,0 +1,19 @@
+Kyle Harris
+
+1. How often do you get a solution in fewer than 20 guesses? Does this change depending on the
+theory you test (1, 2, 3)?
+
+For RandmClue: I almost never got it in less than 20, the only time I did was one time for option 2.
+
+For Detective Jill: I always get a solution in less than 20 guesses for options 1 and 3, but not 2. This is because I check
+for the right answer for each clue in a linear fashion. Since option 2 is 6,10,6, the times asked is 22 
+(6+10+6). So solution 2 is the only one that is always beyond 20 guesses, although option 3 could be wrong,
+it would have to be from an unlikely set of scenarios.
+
+2.  What is good or bad about this strategy?
+
+RandomClue: It's good in that it may get the right answer, but it is bad in that it almost never gets the correct answer.
+
+For Detective Jill: This strategy is good because it checks each TheoryItem in an organized way. But it is bad because it isn't
+always 100% right (and kind of clunky). This could possibly be fixed by using ArrayLists and checking in a manner that checks all
+three TheoryItems for each guess.

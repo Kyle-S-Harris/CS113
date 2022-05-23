@@ -1,0 +1,20 @@
+Kyle Harris
+Lab 12
+
+1.
+
+L1: creates new HashSet s object with String generic
+L2: adds "hello" to the set
+L3: adds "bye" to the set
+L4: adds all to the set s
+L5: creates new TreeSet t with String generic
+L6: adds "123" to t
+L7: s adds all of its elements to t
+L8 prints out all elements of t in s
+L9 prints out all elements of s in t
+L10 searches for ace in s
+L11 searches s for 123
+L12 s retains all
+L13 prints if s contains 123
+L14 t retains all
+L15 prints 123 if t contains all

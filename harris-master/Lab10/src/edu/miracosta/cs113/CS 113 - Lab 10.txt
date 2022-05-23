@@ -1,0 +1,21 @@
+Kyle Stephan Harris
+
+Professor Nery Chapeton-Lamas
+
+Computer Science 113 (2496)
+
+1 November 2017
+
+									Lab 10
+
+
+1. Preorder Tree Traversal: lay, house, cow, jack, rat, milked, that
+
+2. Inorder Tree Traversal: cow, house, jack, lay, milked, rat, that
+
+3. Postorder Tree Traversal: cow, jack, house, milked, that, rat, lay
+
+
+Note: lay = root
+
+

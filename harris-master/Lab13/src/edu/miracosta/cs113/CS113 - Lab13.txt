@@ -1,0 +1,26 @@
+Kyle Harris
+Lab 13
+
+1a. ISBN, because ISBN numbers are a universal standard of giving a specific book a unique identifier
+
+1b. Uniform number, because only one player on a team has a specific number. If this were a case of multiple teams, then numbers could potentially overlap, so uniform number and team name should be used in that case. 
+
+1c. Model number, since it will generally be unique to a specific device. 
+
+1d. Section number, since it will never be used more than once during a semester. However, it could be re-used at a different time. 
+
+2.
+
+Key-value pairs to be stored:
+
+this: 1
+line: 1, 2, 3
+is: 1, 2
+first: 1
+and: 2
+2: 2
+second: 2
+followed: 3
+by: 3
+the: 3
+third: 3
